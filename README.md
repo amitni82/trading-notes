@@ -1,3 +1,3 @@
 # Overview
 
-This repository contains notes from ASTA learnings
+This repository contains notes from [ASTA](https://www.avadhutsathe.com/) learnings.
